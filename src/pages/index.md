@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Human Resource Solutions for Tech
-    subtitle: Optional hero section subtitle
+    subtitle: 'Global '
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
