@@ -114,7 +114,7 @@ sections:
     title: Cards Grid Section
     subtitle: Grid Section Example
     grid_items:
-      - title: Section Item 1Servicee
+      - title: Ser
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
