@@ -9,12 +9,18 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >
+    content: >-
       ### We'd love to help
 
 
       Whether you have a complex global Human Resource set up you'd like to
       discuss or you need help finding the right talent...
+
+
+      ### Privacy
+
+
+      Please consult our [Privacy Policy](/privacy-policy)
     content_align: left
     form_position: right
     form_width: fifty
