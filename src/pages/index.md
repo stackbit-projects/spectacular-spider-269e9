@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Image Grid
-    subtitle: We work with Leading Startup
+    subtitle: We Work with Leading Startup
     align: center
     grid_items:
       - image: images/logo-1.svg
