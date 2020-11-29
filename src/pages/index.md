@@ -52,9 +52,9 @@ sections:
       - title: International Recruitment
         subtitle: International Executives Sourced
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Great talent knows no boundaries. Whether you need a Tech Sales
+          Executive in the Swiss Alps or an AI Expert in the Pyrenees... Talk to
+          us.
         actions:
           - label: Learn More
             url: /style-guide
