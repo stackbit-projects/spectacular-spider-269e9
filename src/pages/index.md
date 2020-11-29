@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: 'Join '
+    title: Join Client List
     subtitle: We Work with Leading Startup
     align: center
     grid_items:
