@@ -9,7 +9,7 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - label: 'Speak to a '
-        url: /pricing
+        url: /contact
         style: primary
       - label: Learn More
         url: /features
