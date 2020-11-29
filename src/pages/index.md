@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: 'Innovative HR Solutions '
+    title: Innovative HR Solutions for Tech
     subtitle: We Work with Leading Startup
     align: center
     grid_items:
