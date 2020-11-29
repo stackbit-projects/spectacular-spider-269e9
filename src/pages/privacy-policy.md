@@ -10,7 +10,7 @@ template: page
 
 <h2>Consent</h2>
 
-<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms. For our Terms and Conditions, please visit the [Terms & Conditions](/terms-and-conditions).</p>
+<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms. For our Terms and Conditions, please visit the <a href="/terms-and-conditions">Terms and Conditions</a>.</p>
 
 <h2>Information we collect</h2>
 
