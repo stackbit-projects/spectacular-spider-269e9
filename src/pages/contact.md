@@ -32,8 +32,8 @@ sections:
       - title: Help & Support
         title_align: center
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+          Our Client Support is available during business hours. We endeavour to
+          respond within 24 hours.
         content_align: center
         actions:
           - label: Get Support
