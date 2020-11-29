@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Image Grid
-    subtitle: Join ients
+    subtitle: Join ien
     align: center
     grid_items:
       - image: images/logo-1.svg
