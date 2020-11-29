@@ -35,7 +35,7 @@ sections:
         default_value: Please select
         options:
           - Error on the site
-          - Sponsorship
+          - Sales
           - Other
       - input_type: textarea
         name: message
