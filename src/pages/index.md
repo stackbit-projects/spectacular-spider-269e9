@@ -104,7 +104,7 @@ sections:
       - title: >-
           “Bridge9 are fast, reliable and extremely knowledgeable! They make our
           executive hiring happen.” 
-        subtitle: 'Brandon Guidelines, COO at Prepagos.'
+        subtitle: 'Brandon Guedes, COO at Prepagos.'
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
