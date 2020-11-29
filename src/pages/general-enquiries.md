@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Reach out to us
-    subtitle: The optional subtitle
+    subtitle: 'We normally respond within 48 '
     align: center
     padding_top: medium
     padding_bottom: medium
