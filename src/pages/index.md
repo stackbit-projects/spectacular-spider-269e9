@@ -101,7 +101,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: '“Bridge9 are fast, reliable and extremely knowledgable!” '
+      - title: '“Bridge9 are fast, reliable and extremely knowledgeable!” '
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         media_position: right
