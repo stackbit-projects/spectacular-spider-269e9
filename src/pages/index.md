@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: primary
       - label: Learn More
-        url: /features
+        url: /about
         style: secondary
     image: images/classic/hero.png
     media_position: left
