@@ -49,7 +49,7 @@ sections:
     title: Working with Bridge9 is Easy
     subtitle: Features Section Example
     features:
-      - title: 'International '
+      - title: International ruitment
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
