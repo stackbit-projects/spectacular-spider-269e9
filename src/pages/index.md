@@ -8,7 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: 'Speak to a '
+      - label: Speak to a Specialist
         url: /contact
         style: primary
       - label: Learn More
