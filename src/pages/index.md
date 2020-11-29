@@ -46,7 +46,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Features Section
+    title: Working with Bridge9 is Easy
     subtitle: Features Section Example
     features:
       - title: Easy Onboarding
