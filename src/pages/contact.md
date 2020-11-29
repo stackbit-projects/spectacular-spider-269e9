@@ -15,9 +15,7 @@ sections:
     grid_items:
       - title: Sales & Advice
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: Get in touch. Tell us about your requirements.
         content_align: center
         actions:
           - label: Get Support
