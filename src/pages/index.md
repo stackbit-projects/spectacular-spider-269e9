@@ -5,8 +5,9 @@ sections:
     title: Modern Human Resource Solutions for Tech
     subtitle: Global Teams Made Easy
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      We make it possible for Start-ups to find, attract and retain *global
+      talent*. We offer guidance through the maze of international hiring and
+      day-to-day running of global, distributed teams. 
     actions:
       - label: Speak to a Specialist
         url: /contact
