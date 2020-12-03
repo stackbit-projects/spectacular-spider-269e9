@@ -117,7 +117,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: What  say about Bridge9
+    title: What People say about Bridge9
     subtitle: ''
     grid_items:
       - content: >-
