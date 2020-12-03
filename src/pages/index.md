@@ -189,7 +189,7 @@ sections:
     content: We can help.
     actions:
       - label: Schedule a Call
-        url: /pricing
+        url: /contact
         style: primary
     actions_position: bottom
     align: center
