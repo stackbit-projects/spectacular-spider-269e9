@@ -198,7 +198,7 @@ sections:
     background_color: secondary
 template: advanced
 excerpt: >-
-  Bridge9 make it possible for Start-ups to find, attract and retain *global
+  Bridge9 makes it possible for Start-ups to find, attract and retain *global
   talent*. We offer guidance through the maze of international hiring and
   day-to-day running of global, distributed teams. 
 ---
