@@ -149,11 +149,12 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          I would highly recommend talking to Bridge9 regarding one's career
+          options. They are knowledgeable, friendly and efficient. They got me a
+          great job.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Prakash Sing,** *Web Designer, Yallo*
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
