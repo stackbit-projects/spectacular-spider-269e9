@@ -140,11 +140,11 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          Ever tried building a tech team in the lockdown? It is hard. Bridge9
+          made it seam easy. 
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Eleanor Carr,** *CTO, Lancaster Mills*
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
