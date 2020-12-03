@@ -167,7 +167,8 @@ sections:
       Managing productivity in a distributed environment requires more of a
       bottom line approach. If features are being shipped, customer service
       tickets are being closed and task lists are turning over, it’s usually a
-      sure sign that things are getting done.
+      sure sign that things are getting done. But getting there isn't easy or
+      obvious. We can help.
     actions:
       - label: Learn More
         url: /features
