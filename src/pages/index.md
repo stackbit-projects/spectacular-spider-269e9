@@ -121,8 +121,8 @@ sections:
     subtitle: ''
     grid_items:
       - content: >-
-          "Bridge9 matched me with some great opportunites and helped me secure
-          a profitable contract.
+          Bridge9 matched me with some great opportunites and helped me secure a
+          profitable contract.
 
 
           **Jason Ng,** *App Developer*
