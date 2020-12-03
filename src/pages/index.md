@@ -186,10 +186,7 @@ sections:
     background_color: primary
   - type: cta_section
     title: Set up a FREE consultation with one of our experts.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: We can help.
     actions:
       - label: Button
         url: /pricing
