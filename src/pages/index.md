@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Modern Human Resource Solutions for Tech '
+    title: Modern Human Resource Solutions for Tech Firms
     subtitle: Global Teams Made Easy
     content: >-
       We make it possible for Start-ups to find, attract and retain *global
