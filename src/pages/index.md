@@ -180,7 +180,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Set up a FREE consultation with one of our experts
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
