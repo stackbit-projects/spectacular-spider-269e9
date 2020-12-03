@@ -89,9 +89,12 @@ sections:
       - title: Multi-National Teams
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          As workforces become increasingly globalized, cross-border
+          communication has become a critical challenge for HR teams to address.
+          According to a survey conducted by the Economist Intelligence Unit
+          (EIU), people management is among the top current challenges for
+          senior and C-level executives, second only to slow growth in key
+          markets.
         actions:
           - label: Learn More
             url: /style-guide
