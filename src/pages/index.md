@@ -164,9 +164,10 @@ sections:
   - type: cta_section
     title: Manage Your Remote Team with Bridge9
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Managing productivity in a distributed environment requires more of a
+      bottom line approach. If features are being shipped, customer service
+      tickets are being closed and task lists are turning over, it’s usually a
+      sure sign that things are getting done.
     actions:
       - label: Learn More
         url: /features
