@@ -130,11 +130,12 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          My e-commerce business expanded very fast during the global pandemic
+          and I needed to set up a customer support team able to handle three
+          timezones. Bridge9 helped flawlessly.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Miles Mashabela,** *MD, e-Khaya*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
