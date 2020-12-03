@@ -87,7 +87,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Multi-National Teams
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: We help get the culture and communications right
         content: >-
           As workforces become increasingly globalized, cross-border
           communication has become a critical challenge for HR teams to address.
