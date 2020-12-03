@@ -68,9 +68,14 @@ sections:
         media_width: fifty
       - title: Consultancy
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Our HR Consultants have experience in a number of different setting up
+          global tech teams. This helps us to create documents that match the
+          tone and nature of your business. We don’t use a ‘one size fits all’
+          approach, but work with you to create documents which protect your
+          business but reflect your company ethos. It’s essential to have these
+          in place not only to comply with legislation, but to support your
+          business strategy and create a consistent approach as your business
+          grows to keep up with competitors.
         actions:
           - label: Learn More
             url: /style-guide
