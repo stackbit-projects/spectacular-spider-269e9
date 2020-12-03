@@ -48,7 +48,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Working with Bridge9 is Easy
-    subtitle: Features Section Example
+    subtitle: 'We do '
     features:
       - title: International Recruitment
         subtitle: International Executives Sourced
