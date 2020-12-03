@@ -117,7 +117,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Reviews Section
+    title: 'What '
     subtitle: ''
     grid_items:
       - content: >-
