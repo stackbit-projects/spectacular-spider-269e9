@@ -121,11 +121,11 @@ sections:
     subtitle: ''
     grid_items:
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          "Bridge9 matched me with some great opportunites and helped me secure
+          a profitable contract.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Jason Ng,** *App Developer*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
