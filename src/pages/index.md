@@ -24,7 +24,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Innovative HR Solutions for Tech
-    subtitle: We Work with Leading Startups
+    subtitle: ''
     align: center
     grid_items:
       - image: images/logo-1.svg
