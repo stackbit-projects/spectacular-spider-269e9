@@ -188,7 +188,7 @@ sections:
     title: Set up a FREE consultation with one of our experts.
     content: We can help.
     actions:
-      - label: Button
+      - label: Schedule a call
         url: /pricing
         style: primary
     actions_position: bottom
