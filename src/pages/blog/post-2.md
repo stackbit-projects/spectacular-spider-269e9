@@ -1,6 +1,6 @@
 ---
 title: Contractor or Employee?
-subtitle: 'Understand the '
+subtitle: Understand the differences
 date: '2020-05-25'
 author: src/data/team/hilary-ouse.yaml
 categories:
