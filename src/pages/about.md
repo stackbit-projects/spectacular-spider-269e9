@@ -26,7 +26,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: Cohesive Culture Enablement
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: >-
+          This is a big deal for any workplace—a great company culture offers a
+          work environment characterized by trust and mutual respect. 
         content: >-
           > Teams that are emotionally connected can be vulnerable with one
           another because there is a baseline of safety and trust in the
