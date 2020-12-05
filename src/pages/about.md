@@ -19,9 +19,9 @@ sections:
       - title: Remote Team Management
         subtitle: It is a tricky balance between distance and belonging.
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Due to the current climate, many companies have had to shift to remote
+          work, leaving leaders and technology professionals asking themselves:
+          **How do I work from home effectively?**
         image: images/about-2.jpg
         media_position: left
         media_width: fifty
