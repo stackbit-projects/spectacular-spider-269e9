@@ -19,9 +19,17 @@ image: images/classic/post-5.png
 image_position: right
 template: post
 ---
+###### Turning newbies into colleagues
+The part where your candidate becomes your new hire is over. But, you can still take it one step further and make sure your new employee becomes a valuable and irreplaceable team member. The first couple of weeks on a new job are critical, and there is a lot you can do to ease this transition.
 
-Donec ultrices tincidunt arcu non sodales neque. Et netus et malesuada fames ac turpis egestas sed tempus. Cras pulvinar mattis nunc sed. Turpis cursus in hac habitasse platea dictumst quisque sagittis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Posuere ac ut consequat semper viverra nam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Egestas sed sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci eu lobortis elementum nibh. Senectus et netus et malesuada fames ac turpis egestas integer. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Sed nisi lacus sed viverra tellus. Non curabitur gravida arcu ac tortor dignissim convallis aenean.
+###### Do your remote employees know what to expect?
+Once all the papers are signed, and everyone has been introduced to one another, it is time for your new employee to get to work. But, where to begin? They will most likely be very confused and maybe a little insecure. This is where you jump in. If you haven't done it up to this point, this is an excellent opportunity to fix that and create an employee handbook. Come up with a template,  a sort of onboarding checklist, that you will adjust accordingly and fill this document with useful information about the position, responsibilities, and expectations.
 
-Sem et tortor consequat id porta. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Amet nulla facilisi morbi tempus. Blandit massa enim nec dui nunc mattis. Non enim praesent elementum facilisis leo vel fringilla est. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Eget nunc lobortis mattis aliquam faucibus purus. Volutpat ac tincidunt vitae semper quis. Cursus eget nunc scelerisque viverra mauris. Purus semper eget duis at tellus at urna. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nunc non blandit massa enim nec. Ut porttitor leo a diam sollicitudin.
+You should also add information about the company, their direct manager, team members, and everything else you might find interesting. Your new remote workers have a lot to learn.
 
-Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magna fermentum iaculis eu non. At consectetur lorem donec massa sapien faucibus et. Est placerat in egestas erat imperdiet sed euismod nisi porta. Lacus vel facilisis volutpat est velit egestas dui. Sapien pellentesque habitant morbi tristique senectus et. Ut tellus elementum sagittis vitae et. Et malesuada fames ac turpis. Volutpat commodo sed egestas egestas. Praesent tristique magna sit amet purus gravida quis. Turpis egestas pretium aenean pharetra.
+###### Knowledge is power, and they need to learn
+Most HR managers make a mistake when making the onboarding plan and fail to include the big picture. In addition to learning about the company, hierarchy, communication tools, and messaging software, they also need to understand everything about their role.
+
+What do we mean by it? Well, they should know what the planned goals for their department and their position are. What will be expected of them and how to achieve that. How they can improve the position, and in which direction the company is heading.
+
+Introducing new recruits to their role inside the big puzzle that is your company is a great first step into turning them into productive and meaningful employees. It is also a great way to increase your retention rate - if they believe they are valued and irreplaceable, they are less likely to quit.
