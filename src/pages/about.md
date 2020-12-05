@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: About
+    title: About Bridge9
     subtitle: ''
     align: center
     background_color: secondary
