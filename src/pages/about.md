@@ -26,7 +26,7 @@ sections:
         image: images/about-2.jpg
         media_position: left
         media_width: fifty
-      - title: Section Title Three
+      - title: Cohesive Culture Enablement
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
