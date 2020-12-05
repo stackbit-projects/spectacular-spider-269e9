@@ -42,9 +42,8 @@ sections:
     grid_items:
       - title: Santa Fe
         content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+          530-B Harkle Road STE 100.<br/> Santa Fe, NM 87505<br/>USA<br/>
+          [hello@bridge9.co](mailto:hello@bridge9.co)
         content_align: left
         actions:
           - label: Get Directions
