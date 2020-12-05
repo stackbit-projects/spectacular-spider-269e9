@@ -80,7 +80,7 @@ sections:
     content: We make *complicated* **simple**.
     actions:
       - label: Talk to us
-        url: /pricing
+        url: /contact
         style: primary
     align: center
     padding_top: medium
