@@ -25,7 +25,7 @@ Although it's the easiest to set, it can lead to tax evasion charges and IRS aud
 ###### Independent contractor or employee: Classification process
 A company must weigh all the factors when determining whether a worker is an employee or an independent contractor. Some factors might indicate that the worker is an employee, while others suggest that the worker is an independent contractor. According to the IRS, there is no set number of factors that make the worker one or another, and no one factor stands alone in making this determination. Let's take a look at the classifications separately.
 
-Who is an independent contractor?
+###### Who is an independent contractor?
 Independent contractors are people who offer their professional services to clients. They are usually self-employed owners of small businesses that you hire for a fixed period of time or on a project basis. Every country has its own regulations that define their independence. According to the IRS, "The general rule is that an individual is an independent contractor if the payer has the right to control or direct only the result of the work and not what will be done and how it will be done."
 
 If the payer in any way controls the work in terms of working hours or activities, the relationship might be viewed as employment. We've written in-depth about the differences between contractors and employees, so make sure to check out that article as well.
