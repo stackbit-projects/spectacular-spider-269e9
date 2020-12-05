@@ -17,7 +17,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Remote Team Management
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: It is a tricky balance betweem
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
