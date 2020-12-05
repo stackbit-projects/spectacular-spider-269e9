@@ -19,9 +19,14 @@ image: images/classic/post-3.png
 image_position: top
 template: post
 ---
+###### Do your remote employees know what to expect?
+Once all the papers are signed, and everyone has been introduced to one another, it is time for your new employee to get to work. But, where to begin? They will most likely be very confused and maybe a little insecure. This is where you jump in. If you haven't done it up to this point, this is an excellent opportunity to fix that and create an employee handbook. Come up with a template,  a sort of onboarding checklist, that you will adjust accordingly and fill this document with useful information about the position, responsibilities, and expectations.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est ista, inquam, Piso, magna dissensio. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris. Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum. Invidiosum nomen est, infame, suspectum. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Duo Reges: constructio interrete. Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Ut aliquid scire se gaudeant?
+You should also add information about the company, their direct manager, team members, and everything else you might find interesting. Your new remote workers have a lot to learn.
 
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
+###### Knowledge is power, and they need to learn
+Most HR managers make a mistake when making the onboarding plan and fail to include the big picture. In addition to learning about the company, hierarchy, communication tools, and messaging software, they also need to understand everything about their role.
 
-Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
+What do we mean by it? Well, they should know what the planned goals for their department and their position are. What will be expected of them and how to achieve that. How they can improve the position, and in which direction the company is heading.
+
+Introducing new recruits to their role inside the big puzzle that is your company is a great first step into turning them into productive and meaningful employees. It is also a great way to increase your retention rate - if they believe they are valued and irreplaceable, they are less likely to quit.
