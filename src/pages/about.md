@@ -17,7 +17,7 @@ sections:
         image: images/about-5.jpg
         media_position: right
         media_width: fifty
-      - title: 'Remote Team '
+      - title: Remote Team Management
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
