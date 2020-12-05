@@ -28,9 +28,10 @@ sections:
       - title: Cohesive Culture Enablement
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          > "Teams that are emotionally connected can be vulnerable with one
+          another because there is a baseline of safety and trust in the
+          relationship. This means they’re more willing to share that crazy idea
+          or push back when they see something that they don’t agree with.”
         image: images/about-1.jpg
         media_position: right
         media_width: fifty
