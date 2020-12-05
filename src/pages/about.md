@@ -69,6 +69,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
+        subtitle: COMING SOON
     grid_cols: four
     grid_gap_horiz: large
     grid_gap_vert: large
