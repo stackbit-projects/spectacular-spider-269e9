@@ -76,7 +76,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: 'Contact Bridge9  '
+    title: 'Contact Bridge9 for Professional Assistence '
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
