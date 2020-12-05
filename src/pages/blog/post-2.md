@@ -10,8 +10,12 @@ tags:
   - src/data/tags/jamstack.yaml
   - src/data/tags/netlify.yaml
 excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+  A company must weigh all the factors when determining whether a worker is an
+  employee or an independent contractor. Some factors might indicate that the
+  worker is an employee, while others suggest that the worker is an independent
+  contractor. According to the IRS, there is no set number of factors that make
+  the worker one or another, and no one factor stands alone in making this
+  determination. Let's take a look at the classifications separately.
 thumb_image: images/classic/post-2.png
 image: images/classic/post-2.png
 image_position: left
