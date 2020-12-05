@@ -1,8 +1,6 @@
 ---
 title: Contractor or Employee?
-subtitle: >-
-  Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
-  vocas, eum.
+subtitle: 'Understand '
 date: '2020-05-25'
 author: src/data/team/hilary-ouse.yaml
 categories:
