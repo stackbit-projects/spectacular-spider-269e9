@@ -79,7 +79,7 @@ sections:
     title: 'Contact Bridge9 for Professional Assistance '
     content: We make *complicated* **simple**.
     actions:
-      - label: Compare Plans
+      - label: Talk to us
         url: /pricing
         style: primary
     align: center
