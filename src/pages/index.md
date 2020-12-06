@@ -143,7 +143,7 @@ sections:
         image_width: twenty-five
       - content: >-
           Ever tried building a tech team in the lockdown? It is hard. Bridge9
-          made it seam easy. 
+          made it seem easy. 
 
 
           **Eleanor Carr,** *CTO, Lancaster Mills*
