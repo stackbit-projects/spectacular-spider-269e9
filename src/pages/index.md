@@ -151,16 +151,6 @@ sections:
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I would highly recommend talking to Bridge9 regarding one's career
-          options. They are knowledgeable, friendly and efficient. They got me a
-          great job.
-
-
-          **Prakash Sing,** *Web Designer, Yallo*
-        image: images/gordon-norman.png
-        image_position: left
-        image_width: twenty-five
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
