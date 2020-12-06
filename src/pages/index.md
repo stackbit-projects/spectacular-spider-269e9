@@ -54,7 +54,7 @@ sections:
         subtitle: International Executives Sourced
         content: >-
           Great talent knows no boundaries. Whether you need a Tech Sales
-          Executive in the Swiss Alps or an AI Expert in the Pyrenees... Talk to
+          Executive in the Swiss Alps or an AI Expert in the Seattle... Talk to
           us.
         actions:
           - label: Learn More
