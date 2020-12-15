@@ -57,7 +57,7 @@ sections:
           Executive in the Swiss Alps or an AI Expert in Seattle... Talk to us.
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /about
             style: primary
             has_icon: true
             icon: arrow-right
