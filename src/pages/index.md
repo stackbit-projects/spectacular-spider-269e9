@@ -165,7 +165,7 @@ sections:
       obvious. We can help.
     actions:
       - label: Learn More
-        url: /features
+        url: /about
         style: secondary
     actions_position: right
     actions_width: fourty
