@@ -77,7 +77,7 @@ sections:
           grows to keep up with competitors.
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /about
             style: primary
             has_icon: true
             icon: arrow-right
